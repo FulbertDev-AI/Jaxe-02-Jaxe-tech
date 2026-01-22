@@ -10,13 +10,13 @@
     </div>
 
     <nav class="nav-links">
-        <a href="#">ACCUEIL</a>
+        <a href="index.php">ACCUEIL</a>
         <a href="#">SERVICES</a>
-        <a href="#">SOLUTIONS</a>
-        <a href="#">À PROPOS</a>
+        <a href="pages/solutions.php">SOLUTIONS</a>
+        <a href="a-propos.php">À PROPOS</a>
     </nav>
     <div class="nav-cta">
-        <a href="#" class="btn-contact">CONTACTEZ-NOUS</a>
+        <a href="contact.php" class="btn-contact">CONTACTEZ-NOUS</a>
     </div>
 </header>
 
